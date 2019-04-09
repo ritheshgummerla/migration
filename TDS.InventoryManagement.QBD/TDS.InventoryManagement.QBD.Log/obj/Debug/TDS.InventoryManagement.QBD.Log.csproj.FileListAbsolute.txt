@@ -1,0 +1,17 @@
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.Log\bin\Debug\TDS.InventoryManagement.QBD.Log.dll
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.Log\bin\Debug\TDS.InventoryManagement.QBD.Log.pdb
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.Log\bin\Debug\log4net.dll
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.Log\bin\Debug\log4net.xml
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.Log\obj\Debug\TDS.InventoryManagement.QBD.Log.csproj.CoreCompileInputs.cache
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.Log\obj\Debug\TDS.InventoryManagement.QBD.Log.csproj.CopyComplete
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.Log\obj\Debug\TDS.InventoryManagement.QBD.Log.dll
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.Log\obj\Debug\TDS.InventoryManagement.QBD.Log.pdb
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.Log\bin\Debug\TDS.InventoryManagement.QBD.Log.dll
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.Log\bin\Debug\TDS.InventoryManagement.QBD.Log.pdb
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.Log\bin\Debug\log4net.dll
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.Log\bin\Debug\log4net.xml
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.Log\obj\Debug\TDS.InventoryManagement.QBD.Log.csproj.CoreCompileInputs.cache
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.Log\obj\Debug\TDS.InventoryManagement.QBD.Log.csproj.CopyComplete
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.Log\obj\Debug\TDS.InventoryManagement.QBD.Log.dll
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.Log\obj\Debug\TDS.InventoryManagement.QBD.Log.pdb
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.Log\obj\Debug\TDS.InventoryManagement.QBD.Log.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.Servicelayer\bin\Debug\TDS.InventoryManagement.QBD.Servicelayer.dll
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.Servicelayer\bin\Debug\TDS.InventoryManagement.QBD.Servicelayer.pdb
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.Servicelayer\obj\Debug\TDS.InventoryManagement.QBD.Servicelayer.csprojAssemblyReference.cache
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.Servicelayer\obj\Debug\TDS.InventoryManagement.QBD.Servicelayer.csproj.CoreCompileInputs.cache
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.Servicelayer\obj\Debug\TDS.InventoryManagement.QBD.Servicelayer.dll
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.Servicelayer\obj\Debug\TDS.InventoryManagement.QBD.Servicelayer.pdb

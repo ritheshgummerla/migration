@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TubularDataSystemsModelStoreContainer" CdmEntityContainer="TubularDataSystemsEntities">
+    <EntitySetMapping Name="vw_INVSTK_TRCQB">
+      <EntityTypeMapping TypeName="TubularDataSystemsModel.vw_INVSTK_TRCQB">
+        <MappingFragment StoreEntitySet="vw_INVSTK_TRCQB">
+          <ScalarProperty Name="COG_GL" ColumnName="COG_GL" />
+          <ScalarProperty Name="INV_GL" ColumnName="INV_GL" />
+          <ScalarProperty Name="Length" ColumnName="Length" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="TRC_Description" ColumnName="TRC_Description" />
+          <ScalarProperty Name="TRC_CODE" ColumnName="TRC_CODE" />
+          <ScalarProperty Name="InvStkID" ColumnName="InvStkID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

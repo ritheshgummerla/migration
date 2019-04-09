@@ -1,0 +1,66 @@
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\log4net.config
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\TDS.InventoryManagement.QBD.exe.config
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\TDS.InventoryManagement.QBD.exe
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\TDS.InventoryManagement.QBD.pdb
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\Common.Logging.Core.dll
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\Common.Logging.dll
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\EntityFramework.dll
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\EntityFramework.SqlServer.dll
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\log4net.dll
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\Quartz.dll
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\TDS.InventoryManagement.QBD.EF.dll
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\TDS.InventoryManagement.QBD.Log.dll
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\Topshelf.dll
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\Topshelf.Quartz.dll
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\TDS.InventoryManagement.QBD.EF.pdb
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\TDS.InventoryManagement.QBD.EF.dll.config
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\TDS.InventoryManagement.QBD.Log.pdb
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\Common.Logging.pdb
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\Common.Logging.xml
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\Common.Logging.Core.pdb
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\Common.Logging.Core.xml
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\EntityFramework.xml
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\EntityFramework.SqlServer.xml
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\log4net.xml
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\Quartz.pdb
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\Quartz.xml
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\Topshelf.xml
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\obj\Debug\TDS.InventoryManagement.QBD.csprojAssemblyReference.cache
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\obj\Debug\TDS.InventoryManagement.QBD.csproj.CoreCompileInputs.cache
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\obj\Debug\TDS.InventoryManagement.QBD.csproj.CopyComplete
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\obj\Debug\TDS.InventoryManagement.QBD.exe
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\obj\Debug\TDS.InventoryManagement.QBD.pdb
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\obj\Debug\TDS.InventoryManagement.QBD.csprojAssemblyReference.cache
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\obj\Debug\TDS.InventoryManagement.QBD.csproj.CoreCompileInputs.cache
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\log4net.config
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\TDS.InventoryManagement.QBD.exe.config
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\TDS.InventoryManagement.QBD.exe
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\TDS.InventoryManagement.QBD.pdb
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\Common.Logging.Core.dll
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\Common.Logging.dll
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\EntityFramework.dll
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\log4net.dll
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\Quartz.dll
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\TDS.InventoryManagement.QBD.EF.dll
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\TDS.InventoryManagement.QBD.Log.dll
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\TDS.InventoryManagement.QBD.Servicelayer.dll
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\Topshelf.dll
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\Topshelf.Quartz.dll
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\TDS.InventoryManagement.QBD.EF.pdb
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\TDS.InventoryManagement.QBD.EF.dll.config
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\TDS.InventoryManagement.QBD.Log.pdb
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\Common.Logging.pdb
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\Common.Logging.xml
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\Common.Logging.Core.xml
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\EntityFramework.xml
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\log4net.xml
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\Quartz.pdb
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\Quartz.xml
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\TDS.InventoryManagement.QBD.Servicelayer.pdb
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\bin\Debug\Topshelf.xml
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\obj\Debug\TDS.InventoryManagement.QBD.csproj.CopyComplete
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\obj\Debug\TDS.InventoryManagement.QBD.exe
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD\obj\Debug\TDS.InventoryManagement.QBD.pdb

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TubularDataSystemsModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'TubularDataSystems7_TRC_new.dbo.vw_INVSTK_TRCQB' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="vw_INVSTK_TRCQB">
+    <Key>
+      <PropertyRef Name="INV_GL" />
+      <PropertyRef Name="COG_GL" />
+      <PropertyRef Name="InvStkID" />
+    </Key>
+    <Property Name="InvStkID" Type="int" Nullable="false" />
+    <Property Name="TRC_CODE" Type="varchar" MaxLength="20" />
+    <Property Name="TRC_Description" Type="nvarchar" MaxLength="159" />
+    <Property Name="Quantity" Type="int" />
+    <Property Name="Length" Type="decimal" Precision="38" Scale="2" />
+    <Property Name="INV_GL" Type="varchar" MaxLength="8" Nullable="false" />
+    <Property Name="COG_GL" Type="varchar" MaxLength="8" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="TubularDataSystemsModelStoreContainer">
+    <EntitySet Name="vw_INVSTK_TRCQB" EntityType="Self.vw_INVSTK_TRCQB" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [vw_INVSTK_TRCQB].[InvStkID] AS [InvStkID], 
+    [vw_INVSTK_TRCQB].[TRC_CODE] AS [TRC_CODE], 
+    [vw_INVSTK_TRCQB].[TRC_Description] AS [TRC_Description], 
+    [vw_INVSTK_TRCQB].[Quantity] AS [Quantity], 
+    [vw_INVSTK_TRCQB].[Length] AS [Length], 
+    [vw_INVSTK_TRCQB].[INV_GL] AS [INV_GL], 
+    [vw_INVSTK_TRCQB].[COG_GL] AS [COG_GL]
+    FROM [dbo].[vw_INVSTK_TRCQB] AS [vw_INVSTK_TRCQB]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

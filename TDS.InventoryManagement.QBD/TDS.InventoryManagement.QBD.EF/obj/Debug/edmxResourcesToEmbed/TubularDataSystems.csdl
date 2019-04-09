@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TubularDataSystemsModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="TubularDataSystemsEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="vw_INVSTK_TRCQB" EntityType="TubularDataSystemsModel.vw_INVSTK_TRCQB" />
+  </EntityContainer>
+  <EntityType Name="vw_INVSTK_TRCQB">
+    <Key>
+      <PropertyRef Name="InvStkID" />
+      <PropertyRef Name="INV_GL" />
+      <PropertyRef Name="COG_GL" />
+    </Key>
+    <Property Name="InvStkID" Type="Int32" Nullable="false" />
+    <Property Name="TRC_CODE" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="TRC_Description" Type="String" MaxLength="159" FixedLength="false" Unicode="true" />
+    <Property Name="Quantity" Type="Int32" />
+    <Property Name="Length" Type="Decimal" Precision="38" Scale="2" />
+    <Property Name="INV_GL" Type="String" Nullable="false" MaxLength="8" FixedLength="false" Unicode="false" />
+    <Property Name="COG_GL" Type="String" Nullable="false" MaxLength="8" FixedLength="false" Unicode="false" />
+  </EntityType>
+</Schema>

@@ -1,0 +1,27 @@
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\bin\Debug\TDS.InventoryManagement.QBD.EF.dll.config
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\bin\Debug\TDS.InventoryManagement.QBD.EF.dll
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\bin\Debug\TDS.InventoryManagement.QBD.EF.pdb
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\bin\Debug\EntityFramework.dll
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\bin\Debug\log4net.dll
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\bin\Debug\EntityFramework.xml
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\bin\Debug\log4net.xml
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\obj\Debug\TDS.InventoryManagement.QBD.EF.csproj.CoreCompileInputs.cache
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\obj\Debug\TDS.InventoryManagement.QBD.EF.csproj.CopyComplete
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\obj\Debug\TDS.InventoryManagement.QBD.EF.dll
+C:\TDS_Project\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\obj\Debug\TDS.InventoryManagement.QBD.EF.pdb
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\bin\Debug\TDS.InventoryManagement.QBD.EF.dll.config
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\bin\Debug\TDS.InventoryManagement.QBD.EF.dll
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\bin\Debug\TDS.InventoryManagement.QBD.EF.pdb
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\bin\Debug\EntityFramework.dll
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\bin\Debug\log4net.dll
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\bin\Debug\EntityFramework.xml
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\bin\Debug\log4net.xml
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\obj\Debug\TDS.InventoryManagement.QBD.EF.csproj.CoreCompileInputs.cache
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\obj\Debug\TDS.InventoryManagement.QBD.EF.csproj.CopyComplete
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\obj\Debug\TDS.InventoryManagement.QBD.EF.dll
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\obj\Debug\TDS.InventoryManagement.QBD.EF.pdb
+C:\Users\Nageswra rao.M\Desktop\QB\TDS.InventoryManagement.QBD\TDS.InventoryManagement.QBD.EF\obj\Debug\TDS.InventoryManagement.QBD.EF.csprojAssemblyReference.cache
